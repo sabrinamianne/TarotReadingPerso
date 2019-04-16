@@ -9,6 +9,8 @@
     padding-top: 10px;
 }
 #pictarot {
+  margin-top: 50px;
+  margin-bottom: 50px;
   margin-left: 360px;
 }
 
@@ -42,3 +44,24 @@
     font-family: Times,inherit;
     color: white;
     }
+
+#imgReading1 {
+  display: none;
+}
+
+#imgReading2 {
+  display: none;
+}
+
+#imgReading3{
+  display: none;
+}
+
+#newReading {
+  margin-top: 100px;
+  margin-left: 43%;
+}
+
+audio {
+  margin-left: 1000px;
+}
